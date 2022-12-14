@@ -1,0 +1,20 @@
+-> What is a module ? 
+    https://flaviocopes.com/es-modules/
+
+    - "Uncaught SyntaxError: cannot use import statement outside a module" while importing a function from a JavaScript file.This error occurs for one reason: you’re trying to use import and you’re not inside an ES module
+
+-> role of [name].js in output
+    for every key in entry , a name of that file will be 
+    created in the specified path (specified in output) . 
+
+    https://webpack.js.org/concepts/output/
+
+-> read about loaders and plugins (especially for plugins , clear all doubt)
+    https://imranhsayed.medium.com/webpack-loaders-and-plugins-e13f79fe6b32
+
+-> See why we use caching . Tutorial is also given , I have not read neither applied
+    https://webpack.js.org/guides/caching/
+
+-> Learn Regex
+
+-> Imp things that I left : webpack-server , babel-setup , caching
